@@ -1,3 +1,3 @@
 # detachablesole.github.io
 
-the websit for Shoes++
+the websit for Shoes++ (IMWUT)
